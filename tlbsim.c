@@ -119,7 +119,7 @@ int simulate_memory_access(char *filename, int tlb_size) {
 
   printf("TLB Hits: %d\n", tlb_hits);
   printf("TLB Misses: %d\n", tlb_misses);
-  printf("Segfaults: %d\n", segFaults);
+  printf("Segfaults: %d\n", seg_faults);
   return 0;
 }
 
