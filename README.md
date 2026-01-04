@@ -23,4 +23,4 @@ Trace file format is one access per line. Write a hex address followed by size i
 4F10 8
 ```
 
-Output shows TLB hits, misses, and segfaults.
+Output will show TLB hits, misses and segfaults.
