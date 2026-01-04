@@ -1,8 +1,8 @@
-# Virtual Memory Simulator (TLB Simulator)
+# Virtual Memory / TLB Simulator
 
 Check out this Translation Lookaside Buffer simulation! 
 
-This program uses LRU replacement.
+(This simulation uses LRU replacement)
 
 ## Build
 
